@@ -33,6 +33,10 @@ main {
 	border-style: solid;
 }
 
+p{
+	margin-bottom: 33px;
+}
+
 a {
 	text-decoration: none;
 	color: var(--purple);
@@ -47,7 +51,7 @@ a {
 	height: 49px;
 	justify-content: center;
 	align-items: center;
-	font-weight: 600;
+	font-weight: 600;	
 }
 
 ul {
